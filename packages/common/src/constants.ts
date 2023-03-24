@@ -11,6 +11,7 @@ export const DEFINE_RENDER = 'defineRender'
 export const DEFINE_SLOTS = 'defineSlots'
 export const DEFINE_PROP = 'defineProp'
 export const DEFINE_EMIT = 'defineEmit'
+export const DEFINE_TEMPLATE_REFS = 'defineTemplateRefs'
 
 export const REPO_ISSUE_URL =
   'https://github.com/sxzz/unplugin-vue-macros/issues'
