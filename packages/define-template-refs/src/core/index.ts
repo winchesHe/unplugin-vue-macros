@@ -5,6 +5,7 @@ import {
   isCallOf,
   parseSFC,
 } from '@vue-macros/common'
+import { helperCode, helperId } from './helper'
 
 export function transformDefineTemplateRefs(code: string, id: string) {
   if (!code.includes(DEFINE_TEMPLATE_REFS)) return
