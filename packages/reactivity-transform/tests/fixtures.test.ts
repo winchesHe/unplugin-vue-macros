@@ -31,7 +31,7 @@ describe('fixtures', async () => {
         return rollupBuild(id, [
           VueReactivityTransform(),
           RollupVue({
-            compiler: require('vue/compiler-sfc'),
+            compiler: require('@vue/compiler-sfc'),
           }),
           RollupRemoveVueFilePathPlugin(),
           RollupEsbuildPlugin({
