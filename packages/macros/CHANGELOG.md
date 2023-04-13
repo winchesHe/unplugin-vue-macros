@@ -1,5 +1,33 @@
 # unplugin-vue-macros
 
+## 2.1.0
+
+### Minor Changes
+
+- [`deb98b7`](https://github.com/sxzz/unplugin-vue-macros/commit/deb98b727cb4e25292dc4bf38d6fd68e1a48e54f) Thanks [@sxzz](https://github.com/sxzz)! - separate `defineProp` and `defineEmit`
+
+### Patch Changes
+
+- Updated dependencies [[`deb98b7`](https://github.com/sxzz/unplugin-vue-macros/commit/deb98b727cb4e25292dc4bf38d6fd68e1a48e54f)]:
+  - @vue-macros/define-emit@0.1.0
+  - @vue-macros/define-prop@0.1.0
+  - @vue-macros/better-define@1.5.2
+  - @vue-macros/common@1.2.1
+  - @vue-macros/define-models@1.0.2
+  - unplugin-vue-define-options@1.3.4
+  - @vue-macros/define-props@1.0.4
+  - @vue-macros/define-props-refs@1.0.1
+  - @vue-macros/define-render@1.3.5
+  - @vue-macros/define-slots@1.0.1
+  - @vue-macros/export-props@0.3.4
+  - @vue-macros/hoist-static@1.3.4
+  - @vue-macros/named-template@0.3.5
+  - @vue-macros/reactivity-transform@0.3.5
+  - @vue-macros/setup-block@0.2.4
+  - @vue-macros/setup-component@0.16.5
+  - @vue-macros/setup-sfc@0.15.5
+  - @vue-macros/short-emits@1.3.4
+
 ## 2.0.0
 
 ### Major Changes

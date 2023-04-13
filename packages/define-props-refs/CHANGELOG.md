@@ -1,5 +1,12 @@
 # @vue-macros/define-props-refs
 
+## 1.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`deb98b7`](https://github.com/sxzz/unplugin-vue-macros/commit/deb98b727cb4e25292dc4bf38d6fd68e1a48e54f)]:
+  - @vue-macros/common@1.2.1
+
 ## 1.0.0
 
 ### Major Changes
